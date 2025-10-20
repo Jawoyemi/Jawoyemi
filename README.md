@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jedidiah Awoyemi3! 👋
 
-<!--
-**Jawoyemi/Jawoyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student | Backend Engineering enthusiast**
 
-Here are some ideas to get you started:
+🚀 **Breaking into tech, building cool stuff and learning every day!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python
+- **Frameworks:** FastAPI, Django (learning!), HTML
+- **Databases:** PostgreSQL, MySQL
+- **Next up:** Firebase 🔥
+
+## ✨ About Me
+- 4th year CS student exploring backend development.
+- Current focus: API design, scalable systems, and open source.
+- Organize and participate in coding bootcamps.
+- Love contributing to open source, especially in Python!
+- Always curious and actively building skills for the tech industry.
+
+## 📚 Current Learning Goals
+- Improve Django skills
+- Integrate Firebase for backend projects
+- Deepen database knowledge
+
+---
+
+Feel free to connect or collaborate!
