@@ -1,4 +1,4 @@
-# Hi, I'm Jedidiah Awoyemi3! 👋
+# Hi, I'm Jedidiah Awoyemi! 👋
 
 **Computer Science student | Backend Engineering enthusiast**
 
