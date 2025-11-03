@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python
-- **Frameworks:** FastAPI, Django (learning!)
+- **Frameworks:** FastAPI, Django
 - **Databases:** PostgreSQL, MySQL
 - **Next up:** Firebase 🔥
 
