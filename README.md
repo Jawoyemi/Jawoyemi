@@ -12,13 +12,13 @@ Passionate about building scalable backend systems, APIs, and real-world applica
 Python, Golang, Java, JavaScript (Node.js), SQL
 
 **Frameworks / Libraries:**  
-Django, FastAPI, Flask, Gin (Golang), Spring Boot (Java), REST & GraphQL APIs
+Django, FastAPI, Flask, Gin (Golang), REST APIs
 
 **Databases:**  
 PostgreSQL, MySQL, MongoDB, Redis
 
 **Tools & Platforms:**  
-Git, Docker, Kubernetes (learning), AWS (learning), Linux, CI/CD pipelines
+Git, Linux (learning), Docker (learning)
 
 ---
 
@@ -37,11 +37,11 @@ Git, Docker, Kubernetes (learning), AWS (learning), Linux, CI/CD pipelines
 - Advanced backend system design  
 - Golang for microservices and performance-critical applications  
 - Database optimization and real-world scaling patterns  
-- Observability, monitoring, and production-level deployment  
+- Linux for backend operations and deployment  
 
 ---
 
 ## Let’s Connect
 
 Open to collaboration, learning, and building impactful projects.
-[GitHub](https://github.com/Jawoyemi) | [Email]jedidiahawoyemi@outlook.com)
+ | [GitHub](https://github.com/Jawoyemi) | [Email](mailto:jedidiahawoyemi@outlook.com)
