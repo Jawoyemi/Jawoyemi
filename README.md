@@ -9,13 +9,13 @@ Passionate about building scalable backend systems, APIs, and real-world applica
 ## Tech Stack
 
 **Languages:**  
-Python, Golang, Java, JavaScript (Node.js), SQL
+Python, Golang, SQL
 
 **Frameworks / Libraries:**  
 Django, FastAPI, Flask, Gin (Golang), REST APIs
 
 **Databases:**  
-PostgreSQL, MySQL, MongoDB, Redis
+PostgreSQL, MySQL, Redis
 
 **Tools & Platforms:**  
 Git, Linux (learning), Docker (learning)
